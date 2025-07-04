@@ -68,3 +68,6 @@ TraceLM/
 ├── requirements.txt                  # List of dependencies
 └── README.md                         # Project description (this file)
 ```
+##  Trained embedding models (Word2Vec, FastText)
+You can directly download our pre-trained Word2Vec and FastText models, which were trained on data from 8 projects, from the links below. After downloading, please place them into the data/model folder
+https://drive.google.com/drive/folders/1Gi3esNwWa8YsPzfsWaSuarmEWwquWsme?usp=drive_link
