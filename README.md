@@ -18,7 +18,7 @@ If you use this dataset, please cite the following paper:
   - Word2Vec
   - FastText
   - SentenceTransformer (all-MiniLM-L6-v2)
-  - OpenAI Embeddings
+  - OpenAI Embeddings （text-embedding-3-small）
 - Process-related features
   - Temporal (e.g., issue–commit temporal information comparison)
   - Author matching (linking based on commit author and issue assignee/ reporter)
