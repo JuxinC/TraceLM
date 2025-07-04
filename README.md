@@ -2,7 +2,7 @@
 This is a research-oriented framework designed to investigate the effectiveness of large language models (LLMs) in automating the trace link recovery of issue–commit in software repositories.
 ## Dataset
 
-This project uses the **SEOSS 33** dataset, which contains a large number of typed artifacts and trace links between them..
+This project uses the **SEOSS 33** dataset, which contains a large number of typed artifacts and trace links between them.
 
 - Dataset link: [https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PDDZ4Q](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PDDZ4Q)
 
